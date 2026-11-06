@@ -1,0 +1,13 @@
+# Field guide only. Replace placeholders before copying to a project root.
+# Omit date-released and version until you have an actual release.
+# Retain upstream license notices and cite upstream work in your README.
+cff-version: 1.2.0
+message: "If you use this project, please cite it."
+type: software
+title: "[Your actual project title]"
+authors:
+  - given-names: "[Your given name]"
+    family-names: "[Your family name]"
+repository-code: "https://github.com/YOUR-USERNAME/YOUR-PROJECT"
+url: "https://github.com/YOUR-USERNAME/YOUR-PROJECT"
+# license: "[The actual SPDX license identifier, if established]"

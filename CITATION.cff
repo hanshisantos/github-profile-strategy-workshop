@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these workshop materials, please cite this repository. Victoria Entz is credited as workshop co-presenter in the README."
+type: software
+title: "Build Securely. Grow Strategically: GitHub Profile Strategy Workshop"
+authors:
+  - given-names: Santos
+    family-names: Martinez
+version: "1.0.0"
+date-released: "2026-11-06"
+license: MIT
+repository-code: "https://github.com/hanshisantos/github-profile-strategy-workshop"
+url: "https://github.com/hanshisantos/github-profile-strategy-workshop"
+preferred-citation:
+  type: generic
+  title: "Build Securely. Grow Strategically: GitHub Profile Strategy Workshop"
+  authors:
+    - given-names: Santos
+      family-names: Martinez
+  year: 2026
+  version: "1.0.0"
+  url: "https://github.com/hanshisantos/github-profile-strategy-workshop"
+keywords:
+  - GitHub profile
+  - career development
+  - evidence
+  - attribution
+  - secure development
