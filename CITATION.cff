@@ -13,7 +13,7 @@ authors:
   - given-names: Santos
     family-names: Martinez
     orcid: "https://orcid.org/0009-0001-5997-303X"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-06"
 license: MIT
 repository-code: "https://github.com/hanshisantos/github-profile-strategy-workshop"
@@ -26,7 +26,7 @@ preferred-citation:
       family-names: Martinez
       orcid: "https://orcid.org/0009-0001-5997-303X"
   year: 2026
-  version: "1.0.0"
+  version: "1.0.1"
   url: "https://github.com/hanshisantos/github-profile-strategy-workshop"
 keywords:
   - GitHub profile

@@ -60,11 +60,11 @@ Original materials in this repository are released under the [MIT License](LICEN
 
 ### Cite this workshop
 
-Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.0) [Workshop materials]. GitHub. https://github.com/hanshisantos/github-profile-strategy-workshop
+Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.1) [Workshop materials]. GitHub. https://github.com/hanshisantos/github-profile-strategy-workshop
 
 Use [CITATION.cff](CITATION.cff) for machine-readable author metadata, including Santos's ORCID. Download [CITATION.bib](CITATION.bib) for reference managers or the author's ORCID work import. The [citation guide](docs/CITATIONS.md#7-add-your-own-work-to-orcid) explains the import and review steps.
 
-Zenodo archiving and a DOI are pending. Follow the [Zenodo setup steps](docs/CITATIONS.md#8-archive-a-release-with-zenodo) before adding a DOI to the citation or importing the final record into ORCID.
+Zenodo integration is enabled. Archiving and DOI verification for version 1.0.1 are pending. Follow the [Zenodo setup steps](docs/CITATIONS.md#8-archive-a-release-with-zenodo) before adding a DOI to the citation or importing the final record into ORCID.
 
 Victoria Entz is credited as workshop co-presenter. That credit does not assert authorship of the original USF project or every repository file. The public USF README credits Santos Martinez as author and William Gonzalez, Kyarra Gutierrez, Andrea Martini, David Warm and Andre Rodrigues as contributors. Preserve those distinctions.
 

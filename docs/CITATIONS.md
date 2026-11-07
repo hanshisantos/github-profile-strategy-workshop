@@ -24,7 +24,7 @@ In text:
 
 For this workshop:
 
-> Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.0) [Workshop materials]. GitHub. https://github.com/hanshisantos/github-profile-strategy-workshop
+> Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.1) [Workshop materials]. GitHub. https://github.com/hanshisantos/github-profile-strategy-workshop
 
 Victoria Entz is credited as workshop co-presenter. Do not add her as a software author or cite a quotation from her unless the actual contribution or quotation is confirmed. Co-presenter credit and repository authorship are different records.
 
@@ -95,7 +95,7 @@ Participants should cite the original workshop in their projects, not list it as
 
 ## 8. Archive a release with Zenodo
 
-**Current status:** The repository has citation metadata ready for Zenodo. Account linking, repository enablement, release archiving and DOI assignment are not confirmed.
+**Current status:** The repository owner confirmed Zenodo integration is enabled. Citation metadata is prepared for version 1.0.1; archiving and DOI verification are pending.
 
 Zenodo supports `CITATION.cff` metadata for GitHub releases. This repository uses that file as its author and release metadata source. A separate `.zenodo.json` is unnecessary here and would take precedence over `CITATION.cff` if both were present. (Zenodo, n.d.-a)
 
