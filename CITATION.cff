@@ -16,6 +16,7 @@ authors:
 version: "1.0.1"
 date-released: "2026-11-06"
 license: MIT
+doi: "10.5281/zenodo.24025600"
 repository-code: "https://github.com/hanshisantos/github-profile-strategy-workshop"
 url: "https://github.com/hanshisantos/github-profile-strategy-workshop"
 preferred-citation:
@@ -27,7 +28,8 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0001-5997-303X"
   year: 2026
   version: "1.0.1"
-  url: "https://github.com/hanshisantos/github-profile-strategy-workshop"
+  doi: "10.5281/zenodo.24025600"
+  url: "https://doi.org/10.5281/zenodo.24025600"
 keywords:
   - GitHub profile
   - career development

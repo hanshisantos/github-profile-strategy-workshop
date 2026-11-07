@@ -1,5 +1,7 @@
 # Build Securely. Grow Strategically.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24025600.svg)](https://doi.org/10.5281/zenodo.24025600)
+
 ## Make your GitHub profile show what you can do next
 
 Choose a direction, show work that supports it and give another person enough context to evaluate your contribution. This workshop turns a GitHub profile into a starting point for a useful career conversation.
@@ -60,11 +62,11 @@ Original materials in this repository are released under the [MIT License](LICEN
 
 ### Cite this workshop
 
-Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.1) [Workshop materials]. GitHub. https://github.com/hanshisantos/github-profile-strategy-workshop
+Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.1) [Workshop materials]. Zenodo. https://doi.org/10.5281/zenodo.24025600
 
 Use [CITATION.cff](CITATION.cff) for machine-readable author metadata, including Santos's ORCID. Download [CITATION.bib](CITATION.bib) for reference managers or the author's ORCID work import. The [citation guide](docs/CITATIONS.md#7-add-your-own-work-to-orcid) explains the import and review steps.
 
-Zenodo integration is enabled. Archiving and DOI verification for version 1.0.1 are pending. Follow the [Zenodo setup steps](docs/CITATIONS.md#8-archive-a-release-with-zenodo) before adding a DOI to the citation or importing the final record into ORCID.
+Version 1.0.1 is [archived in Zenodo](https://zenodo.org/records/24025600) with verified DOI `10.5281/zenodo.24025600`. This DOI identifies that specific release. Use the finalized BibTeX file for the author's ORCID import, or update an existing entry instead of adding a duplicate.
 
 Victoria Entz is credited as workshop co-presenter. That credit does not assert authorship of the original USF project or every repository file. The public USF README credits Santos Martinez as author and William Gonzalez, Kyarra Gutierrez, Andrea Martini, David Warm and Andre Rodrigues as contributors. Preserve those distinctions.
 

@@ -24,7 +24,7 @@ In text:
 
 For this workshop:
 
-> Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.1) [Workshop materials]. GitHub. https://github.com/hanshisantos/github-profile-strategy-workshop
+> Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.1) [Workshop materials]. Zenodo. https://doi.org/10.5281/zenodo.24025600
 
 Victoria Entz is credited as workshop co-presenter. Do not add her as a software author or cite a quotation from her unless the actual contribution or quotation is confirmed. Co-presenter credit and repository authorship are different records.
 
@@ -89,13 +89,15 @@ If you are adding your own authored work to your ORCID record:
 4. Review the imported title, author, year, repository URL and work type. This record describes workshop materials, not a journal article.
 5. Complete the import, choose the intended visibility and confirm that the work appears once in your record.
 
-The repository was released November 6, 2026. November 14, 2026 is the planned workshop date, not its publication date. No DOI has been assigned. Preserve Victoria Entz's co-presenter credit without changing the established repository authorship.
+The repository was first released November 6, 2026. Version 1.0.1 was published November 6 in fixed EST, corresponding to November 7 in UTC; its Zenodo record uses November 7, 2026 as the publication date. November 14, 2026 is the planned workshop date, not its publication date. Use the verified version DOI `10.5281/zenodo.24025600`. Preserve Victoria Entz's co-presenter credit without changing the established repository authorship.
 
 Participants should cite the original workshop in their projects, not list it as their own authored work. Add a separate ORCID work only for an original contribution whose authorship you can support.
 
 ## 8. Archive a release with Zenodo
 
-**Current status:** The repository owner confirmed Zenodo integration is enabled. Citation metadata is prepared for version 1.0.1; archiving and DOI verification are pending.
+**Current status:** Version 1.0.1 is published on GitHub and archived in [Zenodo record 24025600](https://zenodo.org/records/24025600). Its DOI `10.5281/zenodo.24025600` resolves to that record. The archived version, author ORCID, MIT license and source repository link have been verified.
+
+The release DOI is `10.5281/zenodo.24025600`. Zenodo also supplies the all-versions concept DOI `10.5281/zenodo.24025599`; use the release DOI when citing the specific version demonstrated in this workshop.
 
 Zenodo supports `CITATION.cff` metadata for GitHub releases. This repository uses that file as its author and release metadata source. A separate `.zenodo.json` is unnecessary here and would take precedence over `CITATION.cff` if both were present. (Zenodo, n.d.-a)
 
