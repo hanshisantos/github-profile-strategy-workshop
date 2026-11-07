@@ -64,6 +64,8 @@ Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strateg
 
 Use [CITATION.cff](CITATION.cff) for machine-readable author metadata, including Santos's ORCID. Download [CITATION.bib](CITATION.bib) for reference managers or the author's ORCID work import. The [citation guide](docs/CITATIONS.md#7-add-your-own-work-to-orcid) explains the import and review steps.
 
+Zenodo archiving and a DOI are pending. Follow the [Zenodo setup steps](docs/CITATIONS.md#8-archive-a-release-with-zenodo) before adding a DOI to the citation or importing the final record into ORCID.
+
 Victoria Entz is credited as workshop co-presenter. That credit does not assert authorship of the original USF project or every repository file. The public USF README credits Santos Martinez as author and William Gonzalez, Kyarra Gutierrez, Andrea Martini, David Warm and Andre Rodrigues as contributors. Preserve those distinctions.
 
 These are independent educational materials. Naming NASA, USF or Microsoft in an event context does not imply institutional endorsement. This repository does not contain the supplied presentation or internal planning materials.

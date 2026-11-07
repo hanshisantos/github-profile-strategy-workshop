@@ -2,6 +2,13 @@ cff-version: 1.2.0
 message: "If you use these workshop materials, please cite this repository. Victoria Entz is credited as workshop co-presenter in the README."
 type: software
 title: "Build Securely. Grow Strategically: GitHub Profile Strategy Workshop"
+abstract: >-
+  Educational workshop materials for connecting a GitHub profile to career
+  direction, evidence-linked project work, attribution and secure development.
+  Includes a fork-and-clone profile lab, a USF AI Workshop case study, citation
+  guidance and starter templates. Santos Martinez is the repository author.
+  Santos Martinez and Victoria Entz are workshop co-presenters; co-presenter
+  credit does not assert authorship of the original USF project.
 authors:
   - given-names: Santos
     family-names: Martinez

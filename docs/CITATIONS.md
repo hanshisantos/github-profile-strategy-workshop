@@ -79,6 +79,8 @@ An ORCID record connects a researcher to their work. Adding an ORCID to `CITATIO
 
 For this repository, Santos Martinez's author identifier is [0009-0001-5997-303X](https://orcid.org/0009-0001-5997-303X), matching the USF source's citation metadata.
 
+If you plan to archive the work with Zenodo, complete that process first, update the citation with the issued DOI and then import the final record. Do not create a second ORCID entry for the same work merely to add its DOI.
+
 If you are adding your own authored work to your ORCID record:
 
 1. Sign in to [your ORCID record](https://orcid.org/my-orcid) and check Works for an existing entry before importing.
@@ -91,6 +93,24 @@ The repository was released November 6, 2026. November 14, 2026 is the planned w
 
 Participants should cite the original workshop in their projects, not list it as their own authored work. Add a separate ORCID work only for an original contribution whose authorship you can support.
 
+## 8. Archive a release with Zenodo
+
+**Current status:** The repository has citation metadata ready for Zenodo. Account linking, repository enablement, release archiving and DOI assignment are not confirmed.
+
+Zenodo supports `CITATION.cff` metadata for GitHub releases. This repository uses that file as its author and release metadata source. A separate `.zenodo.json` is unnecessary here and would take precedence over `CITATION.cff` if both were present. (Zenodo, n.d.-a)
+
+The repository owner completes the setup:
+
+1. Sign in to [Zenodo](https://zenodo.org) and connect the `hanshisantos` GitHub account. Link the author's ORCID account if desired.
+2. Open [Zenodo's GitHub integration](https://zenodo.org/account/settings/github/), select **Sync now** and enable `hanshisantos/github-profile-strategy-workshop`. (Zenodo, n.d.-b)
+3. Prepare a new release containing the current citation metadata. Keep `CITATION.cff`, `CITATION.bib` and the visible citation aligned with that release's actual version and date. Do not move the existing `v1.0.0` tag to newer content.
+4. Publish the new GitHub release after enablement, then wait for Zenodo to process it. Inspect any reported errors rather than assuming the archive succeeded. (Zenodo, n.d.-c)
+5. Open the resulting Zenodo record. Review the title, Santos's author ORCID, license, version and description. Victoria remains credited as workshop co-presenter.
+6. Copy the DOI issued for that specific archived release. Add it to the root and preferred citation metadata, the BibTeX file and the visible reference. Do not invent a DOI or display an unverified DOI badge.
+7. Add the finalized work to ORCID, or update the existing entry with the DOI rather than importing a duplicate.
+
+The repository URL identifies the live project. A release DOI should identify the particular archived version being cited. Check which version the record describes before using its identifier.
+
 ## References
 
 GitHub. (n.d.-a). *About CITATION files*. Retrieved November 6, 2026, from https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
@@ -100,3 +120,9 @@ GitHub. (n.d.-b). *Referencing and citing content*. Retrieved November 6, 2026, 
 Martinez, S. (2026). *USF AI Workshop: Build your first AI browser extension* (Version 1.0.0) [Computer software]. GitHub. https://github.com/hanshisantos/USF-AI-Workshop
 
 ORCID. (n.d.). *Importing works from a BibTeX file*. Retrieved November 6, 2026, from https://support.orcid.org/hc/en-us/articles/360006894794-Importing-works-from-a-BibTeX-file
+
+Zenodo. (n.d.-a). *CITATION.cff file*. Retrieved November 6, 2026, from https://help.zenodo.org/docs/github/describe-software/citation-file/
+
+Zenodo. (n.d.-b). *Enable a repository*. Retrieved November 6, 2026, from https://help.zenodo.org/docs/github/enable-repository/
+
+Zenodo. (n.d.-c). *Archive a release from GitHub*. Retrieved November 6, 2026, from https://help.zenodo.org/docs/github/archive-software/github-upload/
