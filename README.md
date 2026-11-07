@@ -6,6 +6,8 @@ Choose a direction, show work that supports it and give another person enough co
 
 **Workshop co-presenters:** Santos Martinez and Victoria Entz.
 
+**Repository author:** Santos Martinez | [ORCID: 0009-0001-5997-303X](https://orcid.org/0009-0001-5997-303X).
+
 Santos connects technical work to visible evidence. Victoria's career-development perspective connects that evidence to transferable skills, a next-role direction and a conversation with a mentor. The exercises here are original workshop guidance, not quotations or transcripts.
 
 ## Start here
@@ -55,6 +57,12 @@ The USF case study is a documentation exercise built around a public educational
 ## Reuse and credit
 
 Original materials in this repository are released under the [MIT License](LICENSE). Use the [citation guide](docs/CITATIONS.md) and [CITATION.cff](CITATION.cff) when referencing this workshop.
+
+### Cite this workshop
+
+Martinez, S. (2026). *Build securely. Grow strategically: GitHub profile strategy workshop* (Version 1.0.0) [Workshop materials]. GitHub. https://github.com/hanshisantos/github-profile-strategy-workshop
+
+Use [CITATION.cff](CITATION.cff) for machine-readable author metadata, including Santos's ORCID. Download [CITATION.bib](CITATION.bib) for reference managers or the author's ORCID work import. The [citation guide](docs/CITATIONS.md#7-add-your-own-work-to-orcid) explains the import and review steps.
 
 Victoria Entz is credited as workshop co-presenter. That credit does not assert authorship of the original USF project or every repository file. The public USF README credits Santos Martinez as author and William Gonzalez, Kyarra Gutierrez, Andrea Martini, David Warm and Andre Rodrigues as contributors. Preserve those distinctions.
 

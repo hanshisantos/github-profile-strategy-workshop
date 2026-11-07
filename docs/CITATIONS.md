@@ -73,6 +73,24 @@ Institutional rules take precedence over this suggested disclosure format.
 
 Prefer a few traceable sources over a long list that does not support the work. Check each link before publishing.
 
+## 7. Add your own work to ORCID
+
+An ORCID record connects a researcher to their work. Adding an ORCID to `CITATION.cff` does not itself add the repository to that researcher's record. ORCID provides a separate BibTeX import workflow. (ORCID, n.d.)
+
+For this repository, Santos Martinez's author identifier is [0009-0001-5997-303X](https://orcid.org/0009-0001-5997-303X), matching the USF source's citation metadata.
+
+If you are adding your own authored work to your ORCID record:
+
+1. Sign in to [your ORCID record](https://orcid.org/my-orcid) and check Works for an existing entry before importing.
+2. Download the work's BibTeX file. This repository provides [CITATION.bib](../CITATION.bib) for its author's record.
+3. In Works, select **+Add**, then **Add BibTeX** and choose the downloaded `.bib` file.
+4. Review the imported title, author, year, repository URL and work type. This record describes workshop materials, not a journal article.
+5. Complete the import, choose the intended visibility and confirm that the work appears once in your record.
+
+The repository was released November 6, 2026. November 14, 2026 is the planned workshop date, not its publication date. No DOI has been assigned. Preserve Victoria Entz's co-presenter credit without changing the established repository authorship.
+
+Participants should cite the original workshop in their projects, not list it as their own authored work. Add a separate ORCID work only for an original contribution whose authorship you can support.
+
 ## References
 
 GitHub. (n.d.-a). *About CITATION files*. Retrieved November 6, 2026, from https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
@@ -80,3 +98,5 @@ GitHub. (n.d.-a). *About CITATION files*. Retrieved November 6, 2026, from https
 GitHub. (n.d.-b). *Referencing and citing content*. Retrieved November 6, 2026, from https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
 
 Martinez, S. (2026). *USF AI Workshop: Build your first AI browser extension* (Version 1.0.0) [Computer software]. GitHub. https://github.com/hanshisantos/USF-AI-Workshop
+
+ORCID. (n.d.). *Importing works from a BibTeX file*. Retrieved November 6, 2026, from https://support.orcid.org/hc/en-us/articles/360006894794-Importing-works-from-a-BibTeX-file

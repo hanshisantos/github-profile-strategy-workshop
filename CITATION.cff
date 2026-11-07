@@ -5,6 +5,7 @@ title: "Build Securely. Grow Strategically: GitHub Profile Strategy Workshop"
 authors:
   - given-names: Santos
     family-names: Martinez
+    orcid: "https://orcid.org/0009-0001-5997-303X"
 version: "1.0.0"
 date-released: "2026-11-06"
 license: MIT
@@ -16,6 +17,7 @@ preferred-citation:
   authors:
     - given-names: Santos
       family-names: Martinez
+      orcid: "https://orcid.org/0009-0001-5997-303X"
   year: 2026
   version: "1.0.0"
   url: "https://github.com/hanshisantos/github-profile-strategy-workshop"
